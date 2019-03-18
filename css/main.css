@@ -328,7 +328,7 @@ input, select, textarea {
 	}
 
 	.work-1 {
-		background-image: url('/portfolio/images/portfolio-bg.png');
+		background-image: url('/images/portfolio-bg.png');
 	  background-position: center;
 	  background-size: cover;
 	  background-repeat: no-repeat;
@@ -343,7 +343,7 @@ a:hover	.work-1, a:hover	.work-2, a:hover	.work-3, a:hover	.work-4, a:hover	.wor
 	}
 
 	.work-2 {
-		background-image: url('/portfolio/images/responsive-bg.png');
+		background-image: url('/images/responsive-bg.png');
 	  background-position: center;
 	  background-size: cover;
 	  background-repeat: no-repeat;
@@ -353,7 +353,7 @@ a:hover	.work-1, a:hover	.work-2, a:hover	.work-3, a:hover	.work-4, a:hover	.wor
 	}
 
 	.work-3 {
-		background-image: url('/portfolio/images/sprint-bg.png');
+		background-image: url('/images/sprint-bg.png');
 	  background-position: center;
 	  background-size: cover;
 	  background-repeat: no-repeat;
@@ -363,7 +363,7 @@ a:hover	.work-1, a:hover	.work-2, a:hover	.work-3, a:hover	.work-4, a:hover	.wor
 	}
 
 	.work-4 {
-		background-image: url('/portfolio/images/lambdahello-bg.png');
+		background-image: url('/images/lambdahello-bg.png');
 	  background-position: center;
 	  background-size: cover;
 	  background-repeat: no-repeat;
@@ -373,7 +373,7 @@ a:hover	.work-1, a:hover	.work-2, a:hover	.work-3, a:hover	.work-4, a:hover	.wor
 	}
 
 	.work-5 {
-		background-image: url('/portfolio/images/flexbox-bg.png');
+		background-image: url('/images/flexbox-bg.png');
 	  background-position: center;
 	  background-size: cover;
 	  background-repeat: no-repeat;
@@ -383,7 +383,7 @@ a:hover	.work-1, a:hover	.work-2, a:hover	.work-3, a:hover	.work-4, a:hover	.wor
 	}
 
 	.work-6 {
-		background-image: url('/portfolio/images/portfolio-bg.png');
+		background-image: url('/images/portfolio-bg.png');
 	  background-position: center;
 	  background-size: cover;
 	  background-repeat: no-repeat;
